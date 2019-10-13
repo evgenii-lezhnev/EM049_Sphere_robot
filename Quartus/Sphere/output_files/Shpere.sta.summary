@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -5.502
+TNS   : -171.602
+
+Type  : Slow 1100mV 100C Model Setup 'Clock_divider:inst1|output_clk'
+Slack : -3.177
+TNS   : -25.435
+
+Type  : Slow 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'Clock_divider:inst1|output_clk'
+Slack : 0.775
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.538
+TNS   : -26.845
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'Clock_divider:inst1|output_clk'
+Slack : -0.538
+TNS   : -10.573
+
+Type  : Slow 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -5.885
+TNS   : -178.695
+
+Type  : Slow 1100mV -40C Model Setup 'Clock_divider:inst1|output_clk'
+Slack : -3.466
+TNS   : -26.897
+
+Type  : Slow 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'Clock_divider:inst1|output_clk'
+Slack : 0.802
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.538
+TNS   : -28.902
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'Clock_divider:inst1|output_clk'
+Slack : -0.538
+TNS   : -10.454
+
+Type  : Fast 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -2.221
+TNS   : -68.392
+
+Type  : Fast 1100mV 100C Model Setup 'Clock_divider:inst1|output_clk'
+Slack : -1.263
+TNS   : -8.254
+
+Type  : Fast 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'Clock_divider:inst1|output_clk'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.458
+TNS   : -3.478
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'Clock_divider:inst1|output_clk'
+Slack : 0.053
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -2.031
+TNS   : -59.296
+
+Type  : Fast 1100mV -40C Model Setup 'Clock_divider:inst1|output_clk'
+Slack : -1.249
+TNS   : -7.232
+
+Type  : Fast 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'Clock_divider:inst1|output_clk'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.423
+TNS   : -3.397
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'Clock_divider:inst1|output_clk'
+Slack : 0.087
+TNS   : 0.000
+
+------------------------------------------------------------

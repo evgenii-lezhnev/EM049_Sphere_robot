@@ -1,0 +1,15 @@
+module arduino_bt_data(
+	input_clk,
+	input_data,
+	output_data
+);
+	input input_clk;
+	input[2:0] input_data;
+	output reg[2:0] output_clk;
+
+	always@(posedge input_clk)
+	begin
+		output_data <= input_data;
+	end
+
+endmodule
